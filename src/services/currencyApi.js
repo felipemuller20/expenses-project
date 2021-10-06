@@ -7,6 +7,6 @@ const fetchCurrencyApi = () => (
         });
       });
   })
-);
+);//
 
 export default fetchCurrencyApi;

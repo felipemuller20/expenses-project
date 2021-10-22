@@ -1,6 +1,6 @@
 {
   "homepage": "http://felipemuller20.github.io/expenses-wallet-project",
-  "name": "sd-0x-project-trybewallet",
+  "name": "expenses-wallet-project",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

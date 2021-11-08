@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/expenses-project/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/expenses-project/static/js/main.ccd07724.chunk.js",
-    "main.js.map": "/expenses-project/static/js/main.ccd07724.chunk.js.map",
-    "runtime-main.js": "/expenses-project/static/js/runtime-main.e2993abe.js",
-    "runtime-main.js.map": "/expenses-project/static/js/runtime-main.e2993abe.js.map",
-    "static/js/2.4d1f07b3.chunk.js": "/expenses-project/static/js/2.4d1f07b3.chunk.js",
-    "static/js/2.4d1f07b3.chunk.js.map": "/expenses-project/static/js/2.4d1f07b3.chunk.js.map",
-    "index.html": "/expenses-project/index.html",
-    "precache-manifest.8af26eeece76911c3591ac6e0bc933af.js": "/expenses-project/precache-manifest.8af26eeece76911c3591ac6e0bc933af.js",
-    "service-worker.js": "/expenses-project/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/expenses-project/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.4d1f07b3.chunk.js.LICENSE.txt": "/expenses-project/static/js/2.4d1f07b3.chunk.js.LICENSE.txt"
+    "main.css": "/expenses-wallet-project/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/expenses-wallet-project/static/js/main.6cfe8873.chunk.js",
+    "main.js.map": "/expenses-wallet-project/static/js/main.6cfe8873.chunk.js.map",
+    "runtime-main.js": "/expenses-wallet-project/static/js/runtime-main.34897ab6.js",
+    "runtime-main.js.map": "/expenses-wallet-project/static/js/runtime-main.34897ab6.js.map",
+    "static/js/2.5ceadd57.chunk.js": "/expenses-wallet-project/static/js/2.5ceadd57.chunk.js",
+    "static/js/2.5ceadd57.chunk.js.map": "/expenses-wallet-project/static/js/2.5ceadd57.chunk.js.map",
+    "index.html": "/expenses-wallet-project/index.html",
+    "precache-manifest.91a460a99bf953fa304537d9cbd40218.js": "/expenses-wallet-project/precache-manifest.91a460a99bf953fa304537d9cbd40218.js",
+    "service-worker.js": "/expenses-wallet-project/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/expenses-wallet-project/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.5ceadd57.chunk.js.LICENSE.txt": "/expenses-wallet-project/static/js/2.5ceadd57.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e2993abe.js",
-    "static/js/2.4d1f07b3.chunk.js",
+    "static/js/runtime-main.34897ab6.js",
+    "static/js/2.5ceadd57.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.ccd07724.chunk.js"
+    "static/js/main.6cfe8873.chunk.js"
   ]
 }

@@ -12,7 +12,7 @@ Para a realização deste projeto, foi utilizada uma API que recebe a cotação 
 
 # 👀 Visualização
 
-O deploy deste projeto foi realizado via GitHub Pages e você pode acessá-lo através [deste link](https://felipemuller20.github.io/expenses-project/).
+O deploy deste projeto foi realizado via GitHub Pages e você pode acessá-lo através [deste link](https://felipemuller20.github.io/expenses-wallet-project/).
 
 Para executar este programa no seu computador, faça o clone deste repositório com `git clone`. Em seguida, instale as dependências do projeto com `npm install` e execute o programa com o comando `npm start`.
 

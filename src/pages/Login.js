@@ -78,7 +78,7 @@ class Login extends React.Component {
           placeholder="Password"
           data-testid="password-input"
         />
-        <Link to="/expenses-project/carteira">
+        <Link to="/expenses-wallet-project/carteira">
           <button
             type="button"
             disabled={ disabled }

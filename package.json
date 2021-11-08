@@ -1,6 +1,6 @@
 {
-  "homepage": "http://felipemuller20.github.io/expenses-project",
-  "name": "expenses-project",
+  "homepage": "http://felipemuller20.github.io/expenses-wallet-project",
+  "name": "expenses-wallet-project",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
